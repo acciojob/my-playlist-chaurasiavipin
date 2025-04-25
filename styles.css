@@ -2,7 +2,12 @@
 body{
 	background-color:rgb(204, 204, 204);
 }
-.player_one, .player_two{
+ul{
+	background-color:white;
+	padding:30px;
+	border-radius: 10px;
+}
+.player_one{
 	background-color: rgb(255, 255, 255);
 	padding:50px;
 	border-radius: 10px;
