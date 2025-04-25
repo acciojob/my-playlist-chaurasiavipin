@@ -8,8 +8,9 @@ ul{
 		padding:30px;
 	border-radius: 10px;
 }
-li {
- text-decoration-line: none;
+li{
+ text-decoration: none;
+	list-style-type:non;
 }
 	
 }
