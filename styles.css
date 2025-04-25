@@ -1,4 +1,4 @@
-/*  your css code here. If applicable */
+
 body{
 	background-color:rgb(204, 204, 204);
 }
@@ -10,9 +10,11 @@ ul{
 }
 li{
  text-decoration: none;
-	list-style-type:non;
+	list-style-type:none;
 }
-	
+a{
+ text-decoration: none;
+}
 
 .player_one, .player_two{
 	background-color:rgb(255, 255, 255);
