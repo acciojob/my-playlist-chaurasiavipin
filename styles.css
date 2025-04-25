@@ -3,12 +3,13 @@ body{
 	background-color:rgb(204, 204, 204);
 }
 ul{
-	background-color:white;
-	padding:30px;
+	background-color: white;
+	list-style-type: none
+		padding:30px;
 	border-radius: 10px;
 }
-.player_one{
-	background-color: rgb(255, 255, 255);
+.player_one, .player_two{
+	background-color:rgb(255, 255, 255);
 	padding:50px;
 	border-radius: 10px;
 }
